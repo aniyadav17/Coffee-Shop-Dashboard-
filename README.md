@@ -3,6 +3,11 @@
 This project is an interactive Excel dashboard that visualizes and analyzes sales transaction data for a coffee shop chain. It helps in understanding customer behavior, peak hours, product performance, and more.
 
 ---
+## 📊 📸 Dashboard 
+
+![Coffee Shop Dashboard](https://github.com/aniyadav17/Coffee-Shop-Dashboard-/blob/main/Coffee_Shop_Dashboard_Excel.png)
+
+---
 
 ## 📊 Dashboard Features
 
